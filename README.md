@@ -98,3 +98,9 @@
 <p align="left">Currently, I am learning TypeScript, Express.js, and PostgreSQL to expand my skill set and enhance my ability to build robust and dynamic web applications. I have also started a new project that I aim to launch as soon as possible and will add it here once I’ve implemented its core features.</p>
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/georgifly23/count.svg?"  />
+</div>
+
+###
