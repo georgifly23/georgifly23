@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a passionate 26-year-old front-end developer from Sofia, Bulgaria, specializing in JavaScript and React. A graduate of the Alpha JS program at Telerik Academy, I thrive on learning new technologies and solving complex problems. My curiosity and dedication drive me to continually enhance my skills and tackle challenges with enthusiasm.<br><br>You can also download my resume here.</p>
+<p align="left">I'm a passionate 26-year-old front-end developer from Sofia, Bulgaria, specializing in JavaScript and React. A graduate of the Alpha JS program at Telerik Academy, I thrive on learning new technologies and solving complex problems. My curiosity and dedication drive me to continually enhance my skills and tackle challenges with enthusiasm.<br><br>You can also download my [resume here](https://github.com/georgifly23/georgifly23/blob/main/GeorgiKanchevCV.pdf).</p>
 
 ###
 
